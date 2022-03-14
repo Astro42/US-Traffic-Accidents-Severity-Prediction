@@ -1,0 +1,2 @@
+# US-Traffic-Accidents-Severity-Prediction
+Incorporated Gradient Boosting tree Random Forest classifier and XGBoost models to predict severity of car accidents happened in United Stated from 2016 to 2020. Utilized Local Interpretable Model Agnostic Explanations to explain and interpret the prediction classes. Using EDA. found top 10 states and cities with greatest number of car accidents and its severity 
